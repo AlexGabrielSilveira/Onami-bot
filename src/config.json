@@ -1,0 +1,6 @@
+{
+    "TOKEN_DISCORD" : "",
+    "TOKEN_DISCORD_DEV" : "",
+    "PREFIX": ".",
+    "PREFIX_DEV": "!"
+}
